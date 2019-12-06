@@ -1,8 +1,8 @@
 
-rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(àÁ¥ý
-O
-squid:S106"9Replace this use of System.out or System.err by a logger.(ƒ×ÊŒ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õ˜’²ûÿÿÿÿ
 T
 squid:S106"9Replace this use of System.out or System.err by a logger.(Æ§¸Üùÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(ƒ×ÊŒ
 O
 squid:S106"9Replace this use of System.out or System.err by a logger.(‹ç‰•

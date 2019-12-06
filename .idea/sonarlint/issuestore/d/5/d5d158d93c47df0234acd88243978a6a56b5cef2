@@ -1,3 +1,4 @@
 
-rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ø¦Úª
-ksquid:S1192"HDefine a constant instead of duplicating this literal "BRANCH1" 8 times.(ˆƒ¬‡úÿÿÿÿ8ô·‰¸í-
+ysquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ø¦Úª8šßİí-
+jsquid:S1192"GDefine a constant instead of duplicating this literal "Daniel" 3 times.(í­£Âüÿÿÿÿ8šßİí-
+esquid:S1192	"GDefine a constant instead of duplicating this literal "Cracow" 8 times.(²¢ì‚8šßİí-

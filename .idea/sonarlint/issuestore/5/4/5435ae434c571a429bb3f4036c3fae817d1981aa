@@ -1,11 +1,11 @@
 
 rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½ìÍ
 T
-squid:S106"9Replace this use of System.out or System.err by a logger.(¯À¤ÿÿÿÿÿ
-O
-squid:S106"9Replace this use of System.out or System.err by a logger.(¼œëÌ
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
 O
 squid:S106"9Replace this use of System.out or System.err by a logger.(ØÔıï
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(¼œëÌ
 psquid:S3012'"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(æŸ–é
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¯À¤ÿÿÿÿÿ
