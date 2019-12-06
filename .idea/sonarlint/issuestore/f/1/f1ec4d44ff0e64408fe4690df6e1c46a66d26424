@@ -1,0 +1,6 @@
+
+Hsquid:S1068"*Remove this unused "height" private field.(ÅœÔ˜8ÔÛ»Æè-
+Lsquid:S1068")Remove this unused "width" private field.(•õ¦òùÿÿÿÿ8ÔÛ»Æè-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(áèŞüÿÿÿÿ
+Hsquid:S1068"%Remove this unused "x" private field.(ĞÇñüÿÿÿÿ8İ±£Æè-
+Hsquid:S1068"%Remove this unused "y" private field.(Ê€ÄŒøÿÿÿÿ8İ±£Æè-

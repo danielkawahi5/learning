@@ -1,0 +1,12 @@
+
+Wsquid:S1161"":Add the "@Override" annotation above this method signature(¢õ±8ò¶º‘ê-
+Lsquid:S2140N")Use "java.util.Random.nextInt()" instead.(çÔÂ¸ÿÿÿÿÿ8®Ûô‘ê-
+V
+squid:S106O"9Replace this use of System.out or System.err by a logger.(ã„ÑÞ8Ç†÷‘ê-
+\squid:S3400"9Remove this method and declare a constant for this value.(§¶›Êúÿÿÿÿ8úõ±‘ê-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ËÓ»úþÿÿÿÿ
+V
+squid:S106H"9Replace this use of System.out or System.err by a logger.(¿¥«±8†»–’ê-
+Wsquid:S1161":Add the "@Override" annotation above this method signature(¢õ±8ÌÜ¶‘ê-
+\"squid:SwitchLastCaseIsDefaultCheckQ""Add a default case to this switch.(ŒÉÊÝþÿÿÿÿ8¶ëø‘ê-
+asquid:S2259H"CA "NullPointerException" could be thrown; "movie" is nullable here.(¿¥«±8†»–’ê-
