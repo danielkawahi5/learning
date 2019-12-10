@@ -1,5 +1,0 @@
-
-‚squid:S4165"fRemove this useless assignment; "lastName" already holds the assigned value along all execution paths.(•÷Åùÿÿÿÿ
-Xsquid:S1126%"AReplace this if-then-else statement by a single return statement.(‡ƒ‹¤
-ƒsquid:S4165"gRemove this useless assignment; "firstName" already holds the assigned value along all execution paths.(ŞæŞ¨ùÿÿÿÿ
-rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†¢§³

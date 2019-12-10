@@ -1,13 +1,0 @@
-
-[
-squid:S1064"9Replace this use of System.out or System.err by a logger.(â•‰Úıÿÿÿÿ8ßè²¶í-
-|squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(²¿Äñøÿÿÿÿ8œ³‹¶í-
-ysquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÖªŒ³8œ³‹¶í-
-|squid:S2293""YReplace the type specification in this constructor call with the diamond operator ("<>").(ØÁá²úÿÿÿÿ8œ³‹¶í-
-[
-squid:S106)"9Replace this use of System.out or System.err by a logger.(ÔÅ÷¿üÿÿÿÿ8œ³‹¶í-
-Ksquid:S1481"-Remove this unused "arrayOne" local variable.(É›ÍŞ8œ³‹¶í-
-Hsquid:S1481"*Remove this unused "array" local variable.(şë¶8œ³‹¶í-
-Wsquid:S1854"9Remove this useless assignment to local variable "array".(şë¶8œ³‹¶í-
-Zsquid:S1854"<Remove this useless assignment to local variable "arrayOne".(É›ÍŞ8œ³‹¶í-
-|squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ğ‡ÿûÿÿÿÿ8œ³‹¶í-

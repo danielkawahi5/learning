@@ -1,8 +1,0 @@
-
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(©ßß øÿÿÿÿ8Ç•½ê-
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(Ô°Èøşÿÿÿÿ8‹Áş½ê-
-wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾Ş˜‚ùÿÿÿÿ
-\squid:S1854"9Remove this useless assignment to local variable "price".(í—™”şÿÿÿÿ8Ç•½ê-
-Msquid:S1481"*Remove this unused "price" local variable.(í—™”şÿÿÿÿ8Ç•½ê-

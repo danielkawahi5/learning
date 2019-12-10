@@ -1,5 +1,0 @@
-
-Fsquid:S1481"(Remove this unused "max" local variable.(¸¾åˆ8³ð²îè-
-rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æ·ÏÒ
-Osquid:S1612",Replace this lambda with a method reference.(Ú¼üžùÿÿÿÿ8³ð²îè-
-Usquid:S1854"7Remove this useless assignment to local variable "max".(¸¾åˆ8³ð²îè-

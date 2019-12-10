@@ -1,14 +1,0 @@
-
-usquid:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(Êâ—‡ÿÿÿÿÿ
-˜squid:S1186?"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘
-O
-squid:S106"9Replace this use of System.out or System.err by a logger.(ğ­‰æ
-wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(óØÌÈúÿÿÿÿ
-6squid:S1700	"Rename field "groceryList"(Êâ—‡ÿÿÿÿÿ
-O
-squid:S106"9Replace this use of System.out or System.err by a logger.(’µº
-T
-squid:S106#"9Replace this use of System.out or System.err by a logger.(ìÖÑÙúÿÿÿÿ
-†squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(³òĞ
-Wsquid:UselessImportCheck".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ
-]squid:S11267"AReplace this if-then-else statement by a single return statement.(˜ÁÇğşÿÿÿÿ

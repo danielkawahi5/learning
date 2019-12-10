@@ -1,4 +1,0 @@
-
-Nsquid:S1481"0Remove this unused "tomsAccount" local variable.(ÎœÉÇ8Ê†¥Êæ-
-]squid:S1854"?Remove this useless assignment to local variable "tomsAccount".(ÎœÉÇ8Ê†¥Êæ-
-wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ôõ±æþÿÿÿÿ

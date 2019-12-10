@@ -1,16 +1,0 @@
-
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(±ûùÍûÿÿÿÿ8¿÷Öè-
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(Ä¶¿­8ÃÚ×è-
-esquid:S00107"AConstructor has 8 parameters, which is greater than 7 authorized.(õí—ˆüÿÿÿÿ8²¸¨è-
-Fsquid:S1068"(Remove this unused "eyes" private field.(¡æçÑ8Ç½©è-
-V
-squid:S106%"9Replace this use of System.out or System.err by a logger.(°Úè8¶±‚Ÿè-
-Ksquid:S1068	"(Remove this unused "coat" private field.(ÔñÑøÿÿÿÿ8¹¨•è-
-rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚ùµ
-[
-squid:S106 "9Replace this use of System.out or System.err by a logger.(ìœÛÿøÿÿÿÿ8¶±‚Ÿè-
-Fsquid:S1068"(Remove this unused "legs" private field.(˜ï«Ã8õ¬“è-
-Lsquid:S1068")Remove this unused "teeth" private field.(Ç¡åùÿÿÿÿ8ªÖ”è-
-Fsquid:S1068"(Remove this unused "tail" private field.(êÛÊí8ªÖ”è-

@@ -1,11 +1,0 @@
-
-Ÿsquid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ïîœÑ8Œù¨Ÿè-
-Fsquid:S1068"(Remove this unused "eyes" private field.(¡æçÑ8–ç§Ÿè-
-squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(–“­?8Äú¯Ÿè-
-Zsquid:UnusedPrivateMethod")Remove this unused private "swim" method.(Ïï‰İúÿÿÿÿ8°ó©Ÿè-
-rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚ùµ
-Ÿsquid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(òú—Â8´¾«Ÿè-
-Fsquid:S1068"(Remove this unused "fins" private field.(ãğŸì8–ç§Ÿè-
-Gsquid:S1068")Remove this unused "gills" private field.( ğÑò8–ç§Ÿè-
-`squid:S00107	"AConstructor has 8 parameters, which is greater than 7 authorized.(Ñ¨½û8–ç§Ÿè-
-Usquid:UnusedPrivateMethod")Remove this unused private "rest" method.(ïîœÑ8Œù¨Ÿè-
